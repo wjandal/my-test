@@ -1,6 +1,6 @@
-#Hello Cloud Gurus
+# Hello Cloud Gurus
 
- This is my readme file
+This is my readme file
 
 This is my aCloudGuru GitHub for Devops Repo.
 
